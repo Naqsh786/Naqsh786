@@ -1,5 +1,5 @@
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Muhammad%20Naqsh&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Flutter%20%7C%20AI%20%2B%203D%20Web&descAlignY=55&descSize=18&animation=twinkling" alt="Muhammad Naqsh — header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e27,50:0d4f8c,100:00d4ff&amp;height=220&amp;section=header&amp;text=Muhammad%20Naqsh&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Flutter%20%7C%20AI%20%2B%203D%20Web&amp;descAlignY=55&amp;descSize=18" alt="Muhammad Naqsh — header banner"/>
 
 <!-- ANIMATED TYPING -->
 <p align="center">
@@ -19,18 +19,6 @@
 <img src="https://komarev.com/ghpvc/?username=Naqsh786&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile views counter"/>
 </p>
 
-<!-- SOCIALS -->
-
-## 🌐 Socials
-
-<p align="center">
-<a href="mailto:naqshcc916@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-<a href="https://github.com/Naqsh786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="https://naqsh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
@@ -44,6 +32,20 @@ I'm **Muhammad Naqsh**, a full-stack developer focused on building web and cross
 - 🚀 Always shipping side projects — check my **[portfolio](https://naqsh-portfolio.vercel.app/)**.
 
 <br clear="right"/>
+
+---
+
+<!-- SOCIALS -->
+
+## 🌐 Socials
+
+<p align="center">
+<a href="mailto:naqshcc916@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://github.com/Naqsh786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://naqsh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+</p>
+
+---
 
 ---
 
