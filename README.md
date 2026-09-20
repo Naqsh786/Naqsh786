@@ -125,14 +125,6 @@ I'm **Muhammad Naqsh**, a full-stack developer focused on building web and cross
 
 ---
 
-## 💬 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
-</p>
-
----
-
 <p align="center">
 <i>Build useful software, keep shipping, keep improving.</i>
 </p>
