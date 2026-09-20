@@ -1,6 +1,7 @@
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Muhammad%20Naqsh&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Flutter%20%7C%20AI%20%2B%203D%20Web&descAlignY=55&descSize=18" alt="Muhammad Naqsh — header banner"/>
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e27,50:0d4f8c,100:00d4ff&amp;height=220&amp;section=header&amp;text=Muhammad%20Naqsh&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Flutter%20%7C%20AI%20%2B%203D%20Web&amp;descAlignY=55&amp;descSize=18" alt="Muhammad Naqsh — header banner"/> -->
+<!-- HEADER -->
+<p align="center">
+  <img src="./assets/header.png" width="100%" alt="Muhammad Naqsh">
+</p>
 
 <!-- ANIMATED TYPING -->
 <p align="center">
